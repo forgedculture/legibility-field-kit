@@ -1,0 +1,4 @@
+change,owner,reversible,time_to_reverse,witness,consequence
+deploy schema change,J. Rivera,yes,20m,M. Cho,billing
+enable feature flag,the team,yes,,,user-facing outage
+purge old records,,no,,,permanent data loss
