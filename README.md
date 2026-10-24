@@ -45,7 +45,7 @@ Apache 2.0. See LICENSE.
 
 ---
 
-Maintained by Forged Culture. Background reading: The Illegibility Crisis
+Maintained by Forged Culture. Background reading: [The Illegibility Crisis](https://leanpub.com/illegibility_crisis)
 and the AAAI 2026 paper Echo Systems and the Consequence Boundary. A
 commercial kit (AI assistant adapters, a workbook, and templates) is
 available at forgedculture.com.
