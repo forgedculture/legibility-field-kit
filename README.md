@@ -33,6 +33,13 @@ Witness).
 
 Zero dependencies, Python 3.8+.
 
+## Optional self-service kit
+
+The auditor above is free. The [Legibility Field Kit ($49)](https://forgedculture.com/b/kf65n)
+adds a field workbook, OTW templates and AI assistant setup instructions
+for teams that want to run their own assessment. The paid files are licensed
+for internal use. They do not certify compliance or replace a professional audit.
+
 ## License
 Apache 2.0. See LICENSE.
 
