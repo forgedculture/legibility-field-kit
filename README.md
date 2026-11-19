@@ -37,7 +37,8 @@ Zero dependencies, Python 3.8+.
 
 The auditor above is free. The [Legibility Field Kit ($49)](https://forgedculture.com/b/kf65n)
 adds a field workbook, OTW templates and AI assistant setup instructions
-for teams that want to run their own assessment. The paid files are licensed
+for teams that want to run their own assessment.
+The same kit is available through the [Heron shop](https://shop.theherongroupllc.com/products/legibility-field-kit?utm_source=github&utm_medium=referral&utm_campaign=legibility_field_kit_cli). The paid files are licensed
 for internal use. They do not certify compliance or replace a professional audit.
 
 ## License
