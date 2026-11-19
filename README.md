@@ -41,6 +41,18 @@ for teams that want to run their own assessment.
 The same kit is available through the [Heron shop](https://shop.theherongroupllc.com/products/legibility-field-kit?utm_source=github&utm_medium=referral&utm_campaign=legibility_field_kit_cli). The paid files are licensed
 for internal use. They do not certify compliance or replace a professional audit.
 
+## Independent action-path review for release teams
+
+The free auditor and $49 kit support your own assessments. If an AI agent is
+about to spend money, change a customer account, or invoke privileged tools,
+a separate specialist review can help document whether one nonproduction
+action path actually obeys its stated authority and escalation rules.
+
+Forged Culture offers a fixed-scope [Agent Action Assurance Sprint](https://shop.theherongroupllc.com/pages/agent-action-assurance-sprint?utm_source=github&utm_medium=referral&utm_campaign=agent_assurance_service)
+for this release decision. Engagements require an agreed SOW and evidence
+boundary before payment. This is not a penetration test, compliance
+certification, or production-safety guarantee.
+
 ## License
 Apache 2.0. See LICENSE.
 
